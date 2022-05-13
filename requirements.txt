@@ -1,0 +1,7 @@
+opencv-python>=2.4.9
+python-dateutil
+easydict
+pandas
+torchfile
+nltk
+scikit-image
